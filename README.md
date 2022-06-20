@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @bchaindeveloper.
-- 👀 I’m interested in Cryptocurrency & Blockchain Development. 
-- 🌱 I’m currently learning ReactJS & Solidity. 
-- 📫 How to reach me, bchaindev@protonmail.com.
-
-<!---
-bchaindeveloper/bchaindeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I am Austin from the United States, and I do content on deveopment & design. I mainly work with Javascript, React & Solidty, as well as work in Wordpress.
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bchaindeveloper)](https://github.com/anuraghazra/github-readme-stats)
