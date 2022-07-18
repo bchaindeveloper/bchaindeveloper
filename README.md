@@ -1,6 +1,5 @@
 # Hello World  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bchaindeveloper)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">I am a Full Stack Blockchain Developer from the United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchaindeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="bchaindeveloper" /> </p>
