@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bchaindeveloper" alt="bchaindeveloper" /></a> </p>
 
-- 📫 Contact me: **bcdev3@protonmail.com**
+**bcdev3@protonmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 **bcdev3@protonmail.com**
