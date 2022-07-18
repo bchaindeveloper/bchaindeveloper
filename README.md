@@ -1,5 +1,7 @@
 # Hello World  
-  I am a full stack bloackchain developer from the United States. I mainly work with JavaScript, Solidity and React Framework, as well as work in WordPress.
+  I am a full stack bloackchain developer from the United States. 
+  
+  I mainly work with JavaScript, Solidity and React Framework, as well as work in WordPress.
   
   *Contact me at: bcdev3@protonmail.com*
 
