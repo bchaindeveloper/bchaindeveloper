@@ -8,7 +8,7 @@
 
 - 📫 Contact me: **bcdev3@protonmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> **bcdev3@protonmail.com**
 <p align="left">
 </p>
 
