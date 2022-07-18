@@ -8,8 +8,7 @@
 
 **bcdev3@protonmail.com**
 
-<h3 align="left">Connect with me:</h3> 
-**bcdev3@protonmail.com**
+<h3 align="left">Connect with me: **bcdev3@protonmail.com**</h3> 
 <p align="left">
 </p>
 
