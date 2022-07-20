@@ -1,6 +1,6 @@
 # HELLO WORLD
 
-<h3 align="left">I am a Full Stack Blockchain Developer from the United States.</h3>
+<h3 align="left">I am a Full Stack Blockchain & Web Developer from the United States.</h3>
 <p>I have been studying Blockchain technology since early 2018. I have a vast knoledge in Blockchain & Cryptocurrency protocols.</p>
 
 
