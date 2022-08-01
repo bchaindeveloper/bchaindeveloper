@@ -1,7 +1,7 @@
 # HELLO WORLD
 
 <h3 align="left">I am a Full Stack Blockchain & Web Developer from the United States.</h3>
-<p>I have been studying Blockchain technology since early 2018. I have a vast knoledge in Blockchain & Cryptocurrency protocols.</p>
+<p>I have been studying Blockchain technology since early 2018. Mainly I create Full Stack Blockchain & Web Applications.</p>
 
 
 <h3 align="left">Contact me:</h3>
