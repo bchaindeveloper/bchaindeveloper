@@ -1,7 +1,7 @@
 # HELLO WORLD
 
 <h3 align="left">I am a Full Stack Blockchain & Web Developer from the United States.</h3>
-<p>I have been studying Blockchain technology since early 2018. Mainly I create Full Stack Blockchain & Web Applications.</p>
+<p>I have been studying Blockchain technology since early 2018. Mainly, I create smartconracts using Solidity on Ethereum and Hedera Hashgraph. I also have experience in Full Stack Web Development and have created many websites with Wordpress as well. </p>
 
 
 <h3 align="left">Contact me:</h3>
