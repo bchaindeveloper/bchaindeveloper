@@ -1,7 +1,7 @@
 # HELLO WORLD
 
 <h3 align="left">I am a Full Stack Blockchain & Web Developer from the United States.</h3>
-<p>I have been studying blockchain technology since early 2018. Mainly, I create smart contracts using Solidity on Ethereum and Hedera Hashgraph.</p>
+<p>I have been studying blockchain technology since early 2018. My experties are in Cryptocurrecny and ssmart contract development. Currently, I am looking to land my first job as a blockchain developer.</p>
 
 
 <h3 align="left">Contact me:</h3>
