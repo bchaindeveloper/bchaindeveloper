@@ -1,7 +1,7 @@
 # HELLO WORLD
 
 <h3 align="left">I am a Full Stack Blockchain & Web Developer from the United States.</h3>
-<p>I have been studying blockchain technology since early 2018. My experties are in cryptocurrecny and ssmart contract development. Currently, I am looking to land my first job as a blockchain developer.</p>
+<p>I have been studying blockchain technology since early 2018. My expertise are in creating smart contracts using solidity, Web3 applications and working with blockchain/cryptocurrency protocols. I am very passionate about the industry and am excited to keep learning everyday. </p>
 
 
 <h3 align="left">Contact me:</h3>
@@ -16,6 +16,8 @@
    <h6>-WEB3.JS</h6>
     <h6>-ETHEREUM</h6>
      <h6>-HEDERA</h6>
+       <h6>-Chainlink</h6>
+        <h6>-Web3.py</h6>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
