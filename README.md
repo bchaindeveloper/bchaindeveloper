@@ -19,7 +19,6 @@
     <a href="https://hedera.com/learning/hedera-hashgraph" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png" alt="Hedera" width="40" height="40"/> </a>
     <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" width="40" height="40"/> </a>
     <a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png" alt="Poloygon" width="40" height="40"/> </a>
-
     <a href="https://unstoppabledomains.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnulltx.com%2Fwp-content%2Fuploads%2F2019%2F09%2Funstoppable-domains-logo-696x557.png&f=1&nofb=1" alt="UnstoppableDomains" width="40" height="40"/> </a>
     <a href="https://github.com/eth-brownie/brownie" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs2.51cto.com%2Foss%2F202105%2F27%2F456823ac9d0e1102ff08c1d43e45f976.jpg&f=1&nofb=1" alt="BrownieETH" width="40" height="40"/> </a>
 
