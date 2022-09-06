@@ -11,17 +11,18 @@
 - **bcdev3@protonmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
+<p align="left"> 
     <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="80" height="40"/> </a>
+    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://duckduckgo.com/i/0e717f8b.png" alt="Chainlink" width="40" height="40"/> </a>
   </p>
 
 <p align="left"> 
-  <h6>-SOLIDITY</h6><h6>-WEB3.JS</h6>
+<h6>-WEB3.JS</h6>
     <h6>-ETHEREUM</h6>
      <h6>-HEDERA</h6>
-       <h6>-CHAINLINK</h6>
+
         <h6>-WEB3.PY</h6>  
-        
+
         
         
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
