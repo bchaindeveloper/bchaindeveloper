@@ -20,7 +20,7 @@
     <a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png" alt="Poloygon" width="40" height="40"/> </a>
     <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="120" height="40"/> </a>
     <a href="https://unstoppabledomains.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnulltx.com%2Fwp-content%2Fuploads%2F2019%2F09%2Funstoppable-domains-logo-696x557.png&f=1&nofb=1" alt="UnstoppableDomains" width="40" height="40"/> </a>
-    <a href="https://github.com/eth-brownie/brownie" target="_blank" rel="noreferrer"> <img src="https://moralis.io/wp-content/uploads/2021/07/1e5baf00-2b82-11eb-9f4c-1f47e216cf05-1024x545.png" alt="BrownieETH" width="60" height="40"/> </a>
+    <a href="https://github.com/eth-brownie/brownie" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs2.51cto.com%2Foss%2F202105%2F27%2F456823ac9d0e1102ff08c1d43e45f976.jpg&f=1&nofb=1" alt="BrownieETH" width="40" height="40"/> </a>
 
     
 <p align="left">         
