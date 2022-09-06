@@ -12,12 +12,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-    <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://duckduckgo.com/i/5e8bc7a2.png" alt="Chainlink" width="40" height="40"/> </a>
+    <a href="[[https://chain.link/]](https://en.wikipedia.org/wiki/Chainlink_(blockchain))" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://duckduckgo.com/i/5e8bc7a2.png" alt="Chainlink" width="40" height="40"/> </a>
   </p>
 
 <p align="left"> 
-  <h6>-SOLIDITY</h6>
-   <h6>-WEB3.JS</h6>
+  <h6>-SOLIDITY</h6><h6>-WEB3.JS</h6>
     <h6>-ETHEREUM</h6>
      <h6>-HEDERA</h6>
        <h6>-CHAINLINK</h6>
