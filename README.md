@@ -12,10 +12,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://soliditylang.org/images/SolGray.png" alt="Solidity" width="100" height="40"/> </a>
+    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://soliditylang.org/images/SolGray.png" alt="Solidity" width="120" height="40"/> </a>
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" width="40" height="40"/> </a>
-    <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="100" height="40"/> </a>
-
+    <a href="https://web3js.org/" target="_blank" rel="noreferrer"> <img src="https://web3js.org/web3js.png" alt="WEB3.JS" width="40" height="40"/> </a>
+    <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="120" height="40"/> </a>
 <p align="left"> 
 <h6>-WEB3.JS</h6>
      <h6>-HEDERA</h6>
