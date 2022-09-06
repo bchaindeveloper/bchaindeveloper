@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="80" height="40"/> </a>
   </p>
 
 <p align="left"> 
