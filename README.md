@@ -23,7 +23,7 @@
     <a href="https://trufflesuite.com/"> <img src="https://trufflesuite.com/img/truffle-logo-light.svg" alt="Truffle-Suite" width="40" height="40"/> </a> 
     <a href="https://github.com/eth-brownie/brownie" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs2.51cto.com%2Foss%2F202105%2F27%2F456823ac9d0e1102ff08c1d43e45f976.jpg&f=1&nofb=1" alt="BrownieETH" width="40" height="40"/> </a>
     <a href="https://docs.ethers.io/v5/"> <img src="https://ethers.org/static/logo.png" alt="Ethers.JS" width="50" height="40"/> </a>       
-    <a href="https://www.alchemy.com/"> <img src="https://duckduckgo.com/q=alchemy+crypto&t=ffab&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fres.cloudinary.com%2Fcryptojobslist%2Fimage%2Ffetch%2Fw_300%2Ch_300%2Cc_pad%2Cb_white%2Cq_auto%2Cfl_lossy%2Cf_auto%2Fdpr_2.0%2Fhttps%3A%2F%2Fstorage.googleapis.com%2Fjob-listing-logos%2Fc6f317ee-eeac-4392-bbbf-a86b1322313d.png" alt="Alchemy" width="40" height="40"/> </a> 
+    <a href="https://www.alchemy.com/"> <img src="https://assets-global.website-files.com/5f973c970bea5548ad4287ef/5f9afa4a058e2f401cb9ed90_Logo%20-%20White-%20Standard.png" alt="Alchemy" width="40" height="40"/> </a> 
     <a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer"> <img src="https://wiki.hyperledger.org/download/attachments/2392070/Hyperledger_Fabric_Logo_Color.svg?version=3&modificationDate=1651149200000&api=v2" alt="HyperledgerFabric" width="120" height="40"/> </a>
    
     
