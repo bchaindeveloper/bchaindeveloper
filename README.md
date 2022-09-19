@@ -3,10 +3,11 @@
 <h3 align="left">I am a Full Stack Blockchain & Web Developer from the United States.</h3>
 <p>I have been studying blockchain technology since early 2018. My expertise are in creating smart contracts using solidity, Web3 applications and working with blockchain/cryptocurrency protocols. I am very passionate about the industry and am excited to keep learning everyday. </p>
 
+<h3 align="left">Portfolio Page:</h3>
+<a href="https://bchaindev.com/"> <img src="" alt="BChainDev Porfolio" width="120" height="40"/> </a>
 
 <h3 align="left">Contact me:</h3>
-<p align="left">
-</p>
+
 
 - **bcdev3@protonmail.com**
 
