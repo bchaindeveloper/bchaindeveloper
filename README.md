@@ -4,11 +4,11 @@
 <p>I have been studying blockchain technology since early 2018. My expertise are in creating smart contracts using solidity, Web3 applications and working with blockchain/cryptocurrency protocols. I am very passionate about the industry and am excited to keep learning everyday. </p>
 
 <h3 align="left">Portfolio Page:</h3>
-- <a href="https://bchaindev.com/">**Portfolio Site**</a>
+<a href="https://bchaindev.com/">Portfolio Site</a>
 
 <h3 align="left">Contact Me:</h3>
 
-- **bcdev3@protonmail.com**
+**bcdev3@protonmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
