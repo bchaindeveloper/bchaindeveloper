@@ -46,4 +46,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bchaindeveloper&show_icons=true&theme=dark&title_color=00ff53&text_color=00ff53&locale=en&layout=compact" alt="bchaindeveloper" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bchaindeveloper&show_icons=true&theme=dark&title_color=00ff53&text_color=00ff53&bg_color=0e0208&locale=en" alt="bchaindeveloper" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaindeveloper&show_icons=true&theme=tokyonight&title_color=965aaa&text_color=965aaa&bg_color=ffffff&locale=en" alt="bchaindeveloper" /></p>
