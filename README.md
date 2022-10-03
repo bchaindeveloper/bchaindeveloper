@@ -17,6 +17,8 @@
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     
+    
+<p align="left">    
     <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="120" height="40"/> </a>
     <a href="https://web3js.org/" target="_blank" rel="noreferrer"> <img src="https://web3js.org/web3js.png" alt="WEB3.JS" width="50" height="40"/> </a>
     <a href="https://docs.ethers.io/v5/"> <img src="https://ethers.org/static/logo.png" alt="Ethers.JS" width="50" height="40"/> </a>  
@@ -26,7 +28,7 @@
     <a href="https://hedera.com/learning/hedera-hashgraph" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png" alt="Hedera" width="40" height="40"/> </a>
     <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" width="40" height="40"/> </a>
     <a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png" alt="Poloygon" width="40" height="40"/> </a>
-    <a href="https://unstoppabledomains.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnulltx.com%2Fwp-content%2Fuploads%2F2019%2F09%2Funstoppable-domains-logo-696x557.png&f=1&nofb=1" alt="UnstoppableDomains" width="40" height="40"/> </a> 
+    <a href="https://unstoppabledomains.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnulltx.com%2Fwp-content%2Fuploads%2F2019%2F09%2Funstoppable-domains-logo-696x557.png&f=1&nofb=1" alt="UnstoppableDomains" width="40" height="40"/> </a> </p>
      
    
     
