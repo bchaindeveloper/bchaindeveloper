@@ -1,7 +1,7 @@
 # HELLO WORLD
 
 <h3 align="left">I am a Full Stack Blockchain & Web Developer from the United States.</h3>
-<p>I have been studying blockchain technology since early 2018. My expertise are in creating smart contracts using solidity, Web3 applications and working with blockchain/cryptocurrency protocols. I am very passionate about the industry and am excited to keep learning everyday. </p>
+<p>My expertise are in creating smart contracts using Solidity, Web3 applications, building front-end interfaces with ReactJS and working with blockchain/cryptocurrency protocols. I am very passionate about the industry and am excited to keep learning everyday. </p>
 
 
 <h3 align="left">Contact Me:</h3>
