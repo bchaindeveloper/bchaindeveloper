@@ -38,7 +38,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="PostgresSQL" width="40" height="40"/> </a> 
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
      </p>
-
+![bchaindeveloper github stats](https://github-readme-stats.vercel.app/api?username=bchaindeveloper&show_icons=true&hide_border=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en&layout=compact" alt="bchaindeveloper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en" alt="bchaindeveloper" /></p>
