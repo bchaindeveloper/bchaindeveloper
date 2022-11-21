@@ -20,7 +20,6 @@
     
 <h3 align="left">Tools and Frameworks:</h3>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="120" height="40"/> </a>
     <a href="https://web3js.org/" target="_blank" rel="noreferrer"> <img src="https://web3js.org/web3js.png" alt="WEB3.JS" width="50" height="40"/> </a>
     <a href="https://docs.ethers.io/v5/"> <img src="https://ethers.org/static/logo.png" alt="Ethers.JS" width="50" height="40"/> </a>  
     <a href="https://hardhat.org/"> <img src="https://hardhat.org/_next/static/media/he-head.aed81bd1.svg" alt="Hardhat" width="40" height="40"/> </a>
@@ -35,7 +34,7 @@
      </p>
      
 <h3 align="left">Blockchains:</h3>
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+    <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> <img src="[https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)" alt="Bitcoin" width="40" height="40"/> </a>
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" width="40" height="40"/> </a>
     <a href="https://hedera.com/learning/hedera-hashgraph" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png" alt="Hedera" width="40" height="40"/> </a>
     <a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png" alt="Poloygon" width="40" height="40"/> </a>     
