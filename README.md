@@ -3,7 +3,8 @@
 <p I develop web3 and blockchain applications. My expertise are in engineering smart contracts and developing user interfaces.I am very passionate about the industry and excited to keep learning everyday. </p>
 
 <p align="left"> 
-    <a href="https://www.pixelstalk.net/american-flag-background-images/" target="_blank" rel="noreferrer"> <img src="https://www.pixelstalk.net/wp-content/uploads/2016/05/American-Flag-iphone-Background-Images-768x466.jpg" alt="USA" width="120" height="40"/> </a></p>
+    <a href="https://www.pixelstalk.net/american-flag-background-images/" target="_blank" rel="noreferrer"> <img src="https://www.pixelstalk.net/wp-content/uploads/2016/05/American-Flag-iphone-Background-Images-768x466.jpg" alt="USA" width="120" height="auto"/> </a> 
+</p>
 
 <h3 align="left">Contact Me:</h3>
 
