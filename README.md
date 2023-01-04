@@ -1,6 +1,10 @@
 # Blockchain & Web3 Developer
 
-<p I develop web3 and blockchain applications. My expertise are in engineering smart contracts and developing user interfaces.I am very passionate about the industry and excited to keep learning everyday. </p>
+<p> I develop web3 and blockchain applications. My expertise are in engineering smart contracts and developing user interfaces.I am very passionate about the industry and excited to keep learning everyday. </p>
+
+<p align="left"> 
+    <a href="https://www.pixelstalk.net/american-flag-background-images/" target="_blank" rel="noreferrer"> <img src="https://www.pixelstalk.net/wp-content/uploads/2016/05/American-Flag-iphone-Background-Images-768x466.jpg" alt="USA" width="120" height="auto"/> </a> 
+</p>
 
 <h3 align="left">Contact Me:</h3>
 
@@ -40,7 +44,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en&layout=compact" alt="bchaindeveloper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en" alt="bchaindeveloper" /></p>
-
-<p align="left"> 
-    <a href="https://www.pixelstalk.net/american-flag-background-images/" target="_blank" rel="noreferrer"> <img src="https://www.pixelstalk.net/wp-content/uploads/2016/05/American-Flag-iphone-Background-Images-768x466.jpg" alt="USA" width="120" height="auto"/> </a> 
-</p>
