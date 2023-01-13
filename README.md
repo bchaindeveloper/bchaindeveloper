@@ -39,4 +39,4 @@
     <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en&layout=compact" alt="bchaindeveloper" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en" alt="bchaindeveloper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en" alt="bchaindeveloper" /></p> 
