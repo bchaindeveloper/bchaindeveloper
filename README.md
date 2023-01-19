@@ -36,8 +36,3 @@
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" width="40" height="40"/> </a>
     <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="120" height="40"/> </a>
     </p>
-    <br />
-    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en&layout=compact" alt="bchaindeveloper" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaindeveloper&show_icons=true&title_color=2a086b&text_color=2a086b&bg_color=e1e4fb&locale=en" alt="bchaindeveloper" /></p>  
