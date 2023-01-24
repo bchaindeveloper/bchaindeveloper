@@ -2,6 +2,8 @@
 
 <p> I develop full-stack blockchain applications with solidity smart contracts and react.js user interfaces. </p>
 
+<br />
+
 ## Contact Me:
 
 - **contact@bchaindev.com**
