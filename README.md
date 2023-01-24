@@ -36,3 +36,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bchaindeveloper&theme=tokyonight&hide_border=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bchaindeveloper&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<br />
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
