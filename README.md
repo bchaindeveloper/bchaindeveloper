@@ -37,8 +37,8 @@
     <a href="https://github.com/eth-brownie/brownie" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs2.51cto.com%2Foss%2F202105%2F27%2F456823ac9d0e1102ff08c1d43e45f976.jpg&f=1&nofb=1" alt="BrownieETH" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="120" height="40"/> </a>
-    </p>
 
+<br />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bchaindeveloper&theme=tokyonight&hide_border=true)
 <br/>
