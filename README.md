@@ -28,7 +28,6 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
 <br />    
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" width="40" height="40"/> </a>
     <a href="https://hardhat.org/"> <img src="https://hardhat.org/_next/static/media/he-head.aed81bd1.svg" alt="Hardhat" width="40" height="40"/> </a>
