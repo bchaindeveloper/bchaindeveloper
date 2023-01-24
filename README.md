@@ -38,6 +38,7 @@
     <a href="https://web3js.org/" target="_blank" rel="noreferrer"> <img src="https://web3js.org/web3js.png" alt="WEB3.JS" width="50" height="40"/> </a>
     <a href="https://docs.ethers.io/v5/"> <img src="https://ethers.org/static/logo.png" alt="Ethers.JS" width="50" height="40"/> </a>  
     <a href="https://github.com/eth-brownie/brownie" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs2.51cto.com%2Foss%2F202105%2F27%2F456823ac9d0e1102ff08c1d43e45f976.jpg&f=1&nofb=1" alt="BrownieETH" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/378px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="120" height="40"/> </a>
     </p>
 
