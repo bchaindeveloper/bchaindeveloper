@@ -4,11 +4,6 @@
 
 <br />
 
-## Contact Me:
-
-- **contact@bchaindev.com**
-<br />
-
 ## Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -39,3 +34,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bchaindeveloper&theme=tokyonight&hide_border=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bchaindeveloper&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<br />
+
+## Contact Me:
+
+- **contact@bchaindev.com**
