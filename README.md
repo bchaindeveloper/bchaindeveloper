@@ -37,6 +37,6 @@
 
 <br />
 
-## Contact Me:
+## Contact Me
 
 - **contact@bchaindev.com**
