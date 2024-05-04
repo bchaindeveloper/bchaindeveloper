@@ -1,6 +1,6 @@
 # Blockchain & Web3 Developer
 
-<p> I am a Junior Front-End Developer who is very well versed in blockchain and cryptocurrency protocols. My experience includes programming Solidity Smart Contracts. </p>
+<p> I am a Front-End Developer who is very well versed in blockchain and cryptocurrency protocols. My experience includes programming Solidity Smart Contracts. </p>
 
 <br />
 
